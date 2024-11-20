@@ -1,9 +1,9 @@
 # Welcome to My Portfolio  
 
-Hi there! 👋 I'm **[Your Name]**, a self-taught software developer with a strong passion for building creative and efficient solutions. Over the past 3-4 years, I've been on an exciting journey of learning, experimenting, and growing in the world of software development.  
+Hi there! 👋 I'm Emmanuel Baffour Awuah, a self-taught software developer with a strong passion for building creative and efficient solutions. Over the past 3-4 years, I've been on an exciting journey of learning, experimenting, and growing in the world of software development.  
 
 ## About Me  
-- 💻 I specialize in **[your key skills, e.g., web development, JavaScript, React, Node.js]**.  
+- 💻 I specialize in **web development, JavaScript, React, Node.js & python**.  
 - 🚀 I enjoy working on projects that solve real-world problems and push me to learn new technologies.  
 - 📚 My learning journey has been fueled by online resources, hands-on projects, and a relentless curiosity.  
 
